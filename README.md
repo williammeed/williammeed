@@ -14,9 +14,9 @@
 
 <h2>📚 Certifications & Learning</h2>
 
-- MITRE ATT&CK Framework – Let'sDefend  
-- TryHackMe SOC Level 1 Modules  
-- Additional cybersecurity labs and hands-on training
+- Security+ - Attained August 2025
+- MITRE ATT&CK – Let'sDefend  
+- SOC Fundamentals - Let'sDefend 
 
 ---
 
