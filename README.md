@@ -1,4 +1,4 @@
-<h1>Hi, I'm Will!</h1>
+<h1>Hi, I'm Will!  <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
