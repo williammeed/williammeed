@@ -9,22 +9,14 @@
 - <b>Security Monitoring & Incident Response Practice</b>  
   - Investigated simulated SIEM alerts, correlated data across sources, and documented incident reports.  
   - Practiced using tools like Wireshark, Sysmon, and open-source EDR solutions.
-
-- <b>Linux & Windows Log Analysis</b>  
-  - Analyzed system and security event logs to identify suspicious patterns.  
-  - Created detection queries and filtering rules to reduce false positives.
-
-- <b>Python Scripting & Automation</b>  
-  - Developed small utilities for log parsing and alert correlation.  
-  - Practiced algorithmic problem solving for process automation.
-
 ---
 
 <h2>📚 Certifications & Learning</h2>
 
+- Security+ - Attained August 2025
 - MITRE ATT&CK Framework – Let'sDefend  
-- TryHackMe SOC Level 1 Modules  
-- Additional cybersecurity labs and hands-on training
+- SOC Fundamentals - Let'sDefend  
+  
 
 ---
 
