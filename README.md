@@ -1,5 +1,5 @@
 <h1>Hi, I'm Will Meed!  
-  <a href="https://www.linkedin.com/in/will-meed/">IT Support Specialist | Security+ Certified</a> 
+  <a href="https://www.linkedin.com/in/will-meed/">Aspiring IT Support Specialist | Security+ Certified</a> 
 </h1>
 
 <h2>IT Support & Technical Projects</h2>
